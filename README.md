@@ -1,0 +1,2 @@
+# ArmstrongNumber
+armstrong sayı belirleme
